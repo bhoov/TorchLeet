@@ -7,7 +7,6 @@
 - [X] [Custom Loss](torch/basic/custom-loss/custom-loss.ipynb)
 - [X] [Linear Regression](torch/basic/lin-regression/lin-regression.ipynb)
 - [X] [Save Model](torch/basic/save-model/save_model.ipynb)
-- [ ] [tensorboard](torch/basic/tensorboard/tensorboard.ipynb)
+- [X] [tensorboard](torch/basic/tensorboard/tensorboard.ipynb)
 
 **Easy**
-- [
